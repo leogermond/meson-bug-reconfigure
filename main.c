@@ -1,5 +1,4 @@
 #include <string.h>
-#include <stdio.h>
 #include "config.h"
 
 #define XSTR(s) #s
